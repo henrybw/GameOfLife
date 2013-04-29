@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D255AC50486D3F9007BF209 /* Game of Life */;
+		addToTargets = (
+			8D255AC50486D3F9007BF209 /* Game of Life */,
+		);
+		codeSenseManager = 3D537F9512741CD300534511 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340679959;
+			PBXWorkspaceStateSaveDate = 340679959;
+		};
+		perUserProjectItems = {
+			3D537FAA12741D4900534511 /* PBXTextBookmark */ = 3D537FAA12741D4900534511 /* PBXTextBookmark */;
+			3D537FAB12741D4900534511 /* PlistBookmark */ = 3D537FAB12741D4900534511 /* PlistBookmark */;
+			3D537FAC12741D4900534511 /* PBXTextBookmark */ = 3D537FAC12741D4900534511 /* PBXTextBookmark */;
+			3DA0AF21144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF21144E82F70087B33B /* PBXTextBookmark */;
+			3DA0AF22144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF22144E82F70087B33B /* PBXTextBookmark */;
+			3DA0AF23144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF23144E82F70087B33B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3D537F9412741CD300534511 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{104, 0}";
+			sepNavVisRange = "{0, 104}";
+		};
+	};
+	32DBCFA80370C50100C91783 /* Game of Life_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 196}";
+		};
+	};
+	3D537F9412741CD300534511 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3D537F9512741CD300534511 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3D537FAA12741D4900534511 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 4";
+		rLen = 0;
+		rLoc = 104;
+		rType = 0;
+		vrLen = 104;
+		vrLoc = 0;
+	};
+	3D537FAB12741D4900534511 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D255AD20486D3F9007BF209 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/htw/Desktop/Game of Life/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	3D537FAC12741D4900534511 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCFA80370C50100C91783 /* Game of Life_Prefix.pch */;
+		name = "Game of Life_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 0;
+	};
+	3DA0AF21144E82F70087B33B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* LSSLifeView.m */;
+		name = "LSSLifeView.m: 398";
+		rLen = 0;
+		rLoc = 11888;
+		rType = 0;
+		vrLen = 1746;
+		vrLoc = 0;
+	};
+	3DA0AF22144E82F70087B33B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F50079790118B23001CA0E54 /* LSSLifeView.h */;
+		name = "LSSLifeView.h: 17";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 0;
+	};
+	3DA0AF23144E82F70087B33B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F50079790118B23001CA0E54 /* LSSLifeView.h */;
+		name = "LSSLifeView.h: 38";
+		rLen = 0;
+		rLoc = 914;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 108;
+	};
+	8D255AC50486D3F9007BF209 /* Game of Life */ = {
+		activeExec = 0;
+	};
+	F50079790118B23001CA0E54 /* LSSLifeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 840}}";
+			sepNavSelRange = "{914, 0}";
+			sepNavVisRange = "{108, 1267}";
+		};
+	};
+	F500797A0118B23001CA0E54 /* LSSLifeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 4970}}";
+			sepNavSelRange = "{11888, 0}";
+			sepNavVisRange = "{0, 1746}";
+		};
+	};
+}
