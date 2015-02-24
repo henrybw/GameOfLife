@@ -13,7 +13,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					833,
+					842,
 					20,
 					48,
 					43,
@@ -30,16 +30,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 340679959;
-			PBXWorkspaceStateSaveDate = 340679959;
+			PBXPerProjectTemplateStateSaveDate = 446453729;
+			PBXWorkspaceStateSaveDate = 446453729;
 		};
 		perUserProjectItems = {
-			3D537FAA12741D4900534511 /* PBXTextBookmark */ = 3D537FAA12741D4900534511 /* PBXTextBookmark */;
-			3D537FAB12741D4900534511 /* PlistBookmark */ = 3D537FAB12741D4900534511 /* PlistBookmark */;
-			3D537FAC12741D4900534511 /* PBXTextBookmark */ = 3D537FAC12741D4900534511 /* PBXTextBookmark */;
-			3DA0AF21144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF21144E82F70087B33B /* PBXTextBookmark */;
-			3DA0AF22144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF22144E82F70087B33B /* PBXTextBookmark */;
-			3DA0AF23144E82F70087B33B /* PBXTextBookmark */ = 3DA0AF23144E82F70087B33B /* PBXTextBookmark */;
+			3D2C92021A9C57E40040A866 /* PBXTextBookmark */ = 3D2C92021A9C57E40040A866 /* PBXTextBookmark */;
+			3D537FAA12741D4900534511 = 3D537FAA12741D4900534511 /* PBXTextBookmark */;
+			3D537FAB12741D4900534511 = 3D537FAB12741D4900534511 /* PlistBookmark */;
+			3D537FAC12741D4900534511 = 3D537FAC12741D4900534511 /* PBXTextBookmark */;
+			3DA0AF21144E82F70087B33B = 3DA0AF21144E82F70087B33B /* PBXTextBookmark */;
+			3DA0AF22144E82F70087B33B = 3DA0AF22144E82F70087B33B /* PBXTextBookmark */;
+			3DA0AF23144E82F70087B33B = 3DA0AF23144E82F70087B33B /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3D537F9412741CD300534511 /* Source Control */;
 		userBuildSettings = {
@@ -58,6 +59,16 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 196}";
 		};
+	};
+	3D2C92021A9C57E40040A866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F50079790118B23001CA0E54 /* LSSLifeView.h */;
+		name = "LSSLifeView.h: 38";
+		rLen = 0;
+		rLoc = 914;
+		rType = 0;
+		vrLen = 1465;
+		vrLoc = 67;
 	};
 	3D537F9412741CD300534511 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -140,9 +151,9 @@
 	};
 	F50079790118B23001CA0E54 /* LSSLifeView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 840}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 660}}";
 			sepNavSelRange = "{914, 0}";
-			sepNavVisRange = "{108, 1267}";
+			sepNavVisRange = "{67, 1465}";
 		};
 	};
 	F500797A0118B23001CA0E54 /* LSSLifeView.m */ = {
